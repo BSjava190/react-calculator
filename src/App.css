@@ -1,0 +1,75 @@
+.calculator-border{
+  height: 194px;
+  width: 15%;
+  margin-left: 560px;
+  margin-top: 60px;
+}
+
+.result{
+  padding-top: 5px;
+  padding-right: 5px;
+  text-align: right;
+  border-radius: 5px;
+  width: 248px;
+  height: 50px;
+  font-size: 27px;
+  border: black 1px solid;
+  border-bottom: white 1px solid;
+}
+
+.btn-dark-grey{
+  border: black 1px solid;
+  background-color: dimgray;
+  color: white;
+  width: 62px;
+}
+
+.btn-dark-grey:hover{
+  border: black 1px solid;
+  background-color: dimgray;
+  color: white;
+  width: 62px;
+}
+
+.btn-orange{
+  border: black 1px solid;
+  background-color: orange;
+  color: white;
+  width: 62px;
+}
+
+.btn-orange:hover{
+  border: black 1px solid;
+  background-color: orange;
+  color: white;
+  width: 62px;
+}
+
+.btn-light-grey{
+  border: black 1px solid;
+  background-color: slategrey;
+  color: white;
+  width: 62px;
+}
+
+.btn-light-grey:hover{
+  border: black 1px solid;
+  background-color: slategrey;
+  color: white;
+  width: 62px;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
